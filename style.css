@@ -12,6 +12,7 @@ html {
   #logo {
     width: 7rem;
     height: 7rem;
+    color : 'pink';
     object-fit: contain;
     margin-top: 2rem;
   }
