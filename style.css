@@ -20,4 +20,5 @@ html {
   
   h1 {
     color: #e8d4b2;
+    border: 2px solid green;
   }
